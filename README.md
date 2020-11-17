@@ -5,3 +5,5 @@ Original Visualization: [Prescribing Practices](https://www.cdc.gov/drugoverdose
 
 
 https://user-images.githubusercontent.com/73350057/99404636-defb3d00-28b9-11eb-973e-e677f39b0cc5.png
+https://github.com/julie-reighard/Critque-by-Design/issues/2#issue-744804416
+https://user-images.githubusercontent.com/73350057/99404978-34cfe500-28ba-11eb-8849-35c5f2ada22a.png
